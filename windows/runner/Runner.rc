@@ -94,8 +94,8 @@ BEGIN
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "tugas7_raffi" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "tugas7_taufikurahman_mobile.exe" "\0"
-            VALUE "ProductName", "tugas7_taufikurahman_mobile" "\0"
+            VALUE "OriginalFilename", "tugas7_raffi.exe" "\0"
+            VALUE "ProductName", "tugas7_raffi" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
